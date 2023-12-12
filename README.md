@@ -18,3 +18,6 @@
 <h2>Hierarquia entre as Collections</h2>
 <img src="https://static.javatpoint.com/images/java-collection-hierarchy.png" alt="Java Collections Hierarcht">
 <br>
+
+<h2>Referências</h2>
+<a href="https://www.javatpoint.com/collections-in-java">Collections in java - javatpoint</a>
